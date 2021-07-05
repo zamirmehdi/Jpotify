@@ -1,6 +1,6 @@
 # Jpotify
 Jpotify music player application written in Java
-Advanced Programming course final project
+*Advanced Programming course final project*
 
 implement
 **Music player application written in Java with features like Playlists, Shared Playlist and Friends Activity.**
