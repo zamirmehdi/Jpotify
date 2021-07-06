@@ -8,3 +8,11 @@ Supporting features like **editing songs Library, managing different Playlists, 
 #### Creators:
 - [Amirmehdi Zarrinnezhad](https://github.com/amzarrinnezhad "Amirmehdi Zarrinnezhad")
 - [Amirhossein Rajabpour](https://github.com/Amirhossein-Rajabpour "Amirhossein Rajabpour")
+
+
+**Edit songs in Library**
+Easily Add songs or Delete any of them from your library!
+
+**Share songs with your friends**
+Select songs to share with your friends and also get a list of songs they are listening to. Just a click and download it!
+All the connections are based on sockets. So at the startup, your friends port is required to create the TCP connection.
