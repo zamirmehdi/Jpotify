@@ -12,7 +12,7 @@ Supporting features like **editing songs in Library, managing different Playlist
 
 
 ## App Features:
-  **Edit songs in Library**
+  **Edit songs in Library**<br>
   Easily Add songs or Delete any of them from your library!
 
   **Share songs with your friends**
