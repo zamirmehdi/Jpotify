@@ -12,9 +12,9 @@ Supporting features like **editing songs in Library, managing different Playlist
 
 
 ## App Features:
-  **Edit songs in Library**<br>
+  ###Edit songs in Library<br>
   Easily Add songs or Delete any of them from your library!
 
-  **Share songs with your friends**
+  ###Share songs with your friends<br>
   Select songs to share with your friends and also get a list of songs they are listening to. Just a click and download it!
   All the connections are based on sockets. So at the startup, your friends port address is required to create the TCP connection.
