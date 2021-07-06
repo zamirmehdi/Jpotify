@@ -5,12 +5,12 @@ Jpotify is a music player application written in Java.
 Supporting features like **editing songs in Library, managing different Playlists, Share or Like songs and Friends Activity to connect your friends!.**
 
 
-#### Creators:
+### Creators:
 - [Amirmehdi Zarrinnezhad](https://github.com/amzarrinnezhad "Amirmehdi Zarrinnezhad")
 - [Amirhossein Rajabpour](https://github.com/Amirhossein-Rajabpour "Amirhossein Rajabpour")
 
 
-
+### App Features:
 **Edit songs in Library**
 Easily Add songs or Delete any of them from your library!
 
