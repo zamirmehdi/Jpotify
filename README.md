@@ -23,7 +23,7 @@ All the connections are based on sockets. So at the startup, your friends port a
 Like your favorite songs and maintain them in your favorites Playlist.<br>
 
 
-
+## Screenshots
 You can create account and when you sign in later your songs and playlists are loaded into your program like this: <br>
 <img src="https://github.com/Amirhossein-Rajabpour/Jpotify/blob/master/Jpotify%20SC/Login%20Window.png" width="400" height="600">
 
